@@ -123,7 +123,11 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 --- !u!114 &7012578432317337144
+=======
+--- !u!114 &982425762641967673
+>>>>>>> 95139cd5d0eb840f2335ce22b5ccd0948721cee3
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,4 +139,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   version: -1
+=======
+  version: 7
+>>>>>>> 95139cd5d0eb840f2335ce22b5ccd0948721cee3

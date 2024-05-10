@@ -127,7 +127,11 @@ Material:
     - _EmissionColor: {r: 0.5, g: 0.33138573, b: 0.2287736, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 --- !u!114 &207931560483735897
+=======
+--- !u!114 &7181651946317461923
+>>>>>>> 95139cd5d0eb840f2335ce22b5ccd0948721cee3
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -139,4 +143,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   version: -1
+=======
+  version: 7
+>>>>>>> 95139cd5d0eb840f2335ce22b5ccd0948721cee3

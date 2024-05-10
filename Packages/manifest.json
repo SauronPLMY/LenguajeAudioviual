@@ -10,7 +10,10 @@
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.postprocessing": "3.4.0",
     "com.unity.render-pipelines.universal": "14.0.10",
+<<<<<<< HEAD
     "com.unity.splines": "2.5.2",
+=======
+>>>>>>> 95139cd5d0eb840f2335ce22b5ccd0948721cee3
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.6",
